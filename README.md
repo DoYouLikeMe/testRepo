@@ -29,3 +29,9 @@ The background color should be `#ffffff` for the light mode and `#0d1117` for da
 This site was built using [GitHub Pages](https://pages.github.com)
 
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
+- George Washington
+
+* John Adams
+
+- Thomas Jefferson
