@@ -16,4 +16,10 @@ _this text is italicized_
 
 **_All this text is important_**
 
-<sub>This is a subscript text</sub>
+This is a <sub>subscript</sub> text
+
+This is a <sup>supercript</sup> text
+
+Text that is not a quote
+
+> Text that is a quote
